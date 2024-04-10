@@ -1,0 +1,12 @@
+E:\repos\Test\Demo.API\Entity\bin\Debug\net8.0\Entity.deps.json
+E:\repos\Test\Demo.API\Entity\bin\Debug\net8.0\Entity.dll
+E:\repos\Test\Demo.API\Entity\bin\Debug\net8.0\Entity.pdb
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\Entity.dll
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\refint\Entity.dll
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\Entity.pdb
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\ref\Entity.dll
+E:\repos\Test\Demo.API\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache

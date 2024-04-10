@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\css\\main.7ea6e3ac.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.7ea6e3ac.css"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\css\\main.7ea6e3ac.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.7ea6e3ac.css.map"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\css\\main.e069abf0.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.e069abf0.css"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\css\\main.e069abf0.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.e069abf0.css.map"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\453.258b012d.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\453.258b012d.chunk.js"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\453.258b012d.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\453.258b012d.chunk.js.map"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.6a46e87f.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.6a46e87f.js"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.6a46e87f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.6a46e87f.js.LICENSE.txt"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.6a46e87f.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.6a46e87f.js.map"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.7c987c47.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.7c987c47.js"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.7c987c47.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.7c987c47.js.LICENSE.txt"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.7c987c47.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.7c987c47.js.map"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.a5b77adc.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.a5b77adc.js"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.a5b77adc.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.a5b77adc.js.LICENSE.txt"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.a5b77adc.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.a5b77adc.js.map"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.d1657dbf.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.d1657dbf.js"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.d1657dbf.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.d1657dbf.js.LICENSE.txt"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.d1657dbf.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.d1657dbf.js.map"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.ee965466.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.ee965466.js"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.ee965466.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.ee965466.js.LICENSE.txt"
+    },
+    {
+      "Id": "E:\\repos\\Test\\Demo.API\\Demo.API\\wwwroot\\static\\js\\main.ee965466.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.ee965466.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Demo.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Demo.API.props",
+      "PackagePath": "build\\Demo.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo.API.props",
+      "PackagePath": "buildMultiTargeting\\Demo.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Demo.API.props",
+      "PackagePath": "buildTransitive\\Demo.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\static\css\main.e069abf0.css.map" />
+    <None Include="wwwroot\static\js\453.258b012d.chunk.js" />
+    <None Include="wwwroot\static\js\453.258b012d.chunk.js.map" />
+    <None Include="wwwroot\static\js\main.6a46e87f.js" />
+    <None Include="wwwroot\static\js\main.6a46e87f.js.map" />
+    <None Include="wwwroot\static\js\main.7c987c47.js" />
+    <None Include="wwwroot\static\js\main.7c987c47.js.map" />
+    <None Include="wwwroot\static\js\main.a5b77adc.js" />
+    <None Include="wwwroot\static\js\main.a5b77adc.js.map" />
+    <None Include="wwwroot\static\js\main.ee965466.js" />
+    <None Include="wwwroot\static\js\main.ee965466.js.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.3">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entity\Entity.csproj" />
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
